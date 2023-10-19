@@ -6,7 +6,7 @@
 
     🎓 Math, Economics, Finance and Data Science graduate
     
-    🔥 Passionate about: Arts, Music, and, of course, all things data
+    🔥 Passionate about: Arts, Music, Motor Sports, and, of course, all things data
     
     💼 Skills:
     - **Programming**: Python

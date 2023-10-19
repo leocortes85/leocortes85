@@ -16,5 +16,5 @@
     
     🌟 Let's connect and explore the world of data together! 📊📈📉
 </h3>
-    
+    ![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/leonardo-cortés-zambrano-13522295/)
 

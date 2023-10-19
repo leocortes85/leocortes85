@@ -4,7 +4,7 @@
     <h3 align="left"> 
     ## Leonardo Cortés
 
-    🎓 Math, Data Science, Finance graduate
+    🎓 Math, Economics, Finance and Data Science graduate
     
     🔥 Passionate about: Arts, Music, and, of course, all things data
     

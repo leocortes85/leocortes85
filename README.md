@@ -18,5 +18,4 @@
 </h3>
 
     
-</div>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tuperfildelinkedinleonardo-cortés-zambrano-13522295/)
+

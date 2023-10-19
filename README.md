@@ -1,12 +1,12 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmo0eTFvcGxsNDlqbmtrbTNkb3hvdWltdXFmbTEwcG1pc2djd2o3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VeNDat4n4Kre76oS1g/giphy.gif" width="500"/>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmo0eTFvcGxsNDlqbmtrbTNkb3hvdWltdXFmbTEwcG1pc2djd2o3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VeNDat4n4Kre76oS1g/giphy.gif" width="100%"/>
     <h1 align="center"> Hi there 👋 I'm Leo </h1>
     <h3 align="left"> 
-    About Me:
+    ## Leonardo Cortés
 
-    🎓 Math, Economics, Finance and Data Science graduate
+    🎓 Math, Data Science, Finance graduate
     
-    🔥 Passionate about: Arts, Music, Motor Sports, and, of course, all things data
+    🔥 Passionate about: Arts, Music, and, of course, all things data
     
     💼 Skills:
     - **Programming**: Python
@@ -16,5 +16,7 @@
     
     🌟 Let's connect and explore the world of data together! 📊📈📉
 </h3>
-    [LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/leonardo-cortés-zambrano-13522295/)
 
+<img src=[LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/leonardo-cortés-zambrano-13522295/)/>
+    
+</div>

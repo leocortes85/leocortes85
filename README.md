@@ -5,12 +5,12 @@
 
 <h3 align="Left">     
  
-### About me
+About me
 
 🎓 Math, Data Science, Finance graduate
 🔥 Passionate about: Arts, Music, Finance, Economics and, of course, all things data
     
-### 🛠 Tech Stack 💼 (languages and tools)
+🛠 Tech Stack 💼 (languages and tools)
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)&nbsp;
@@ -23,12 +23,12 @@
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=white)
 
 
-### 📊📈📉 Stats
+📊📈📉 Stats
 
 <img src='https://github-readme-stats.vercel.app/api?username=leocortes85&show_icons=true&theme=radical' />
 </p>
 
-### Contact us
+Contact us
 
 <a href="https://www.linkedin.com/in/leonardo-cortés-zambrano-13522295/" target="blank">
 <img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white alt=azzar style="margin-bottom: 5px;" /></a>

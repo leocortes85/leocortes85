@@ -7,13 +7,14 @@
  
 About me
 
-🎓 Math, Data Science, Finance graduate
-🔥 Passionate about: Arts, Music, Finance, Economics and, of course, all things data
+   🎓 Math, Data Science, Finance graduate
+   🔥 Passionate about: Arts, Music, Finance, Economics and, of course, all things data
 
 </h3>
 
 <h3 align="Left">    
 🛠 Tech Stack 💼 (languages and tools)
+
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)&nbsp;
@@ -27,12 +28,15 @@ About me
 
 </h3>
 
-
+<h3 align="Left">
 📊📈📉 Stats
 
 <img src='https://github-readme-stats.vercel.app/api?username=leocortes85&show_icons=true&theme=radical' />
 </p>
 
+</h3>
+
+<h3 align="Left">
 Contact us
 
 <a href="https://www.linkedin.com/in/leonardo-cortés-zambrano-13522295/" target="blank">

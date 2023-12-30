@@ -21,11 +21,8 @@
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=white)
 
 
-    - **Databases**: SQL, NoSQL
-    - **Data Visualization**: PowerBI, Tableau
-    - **Data Analysis**: Data Analysis, Data Engineering, Data Science
+### Stats
 
- 
 <img src='https://github-readme-stats.vercel.app/api?username=leocortes85&show_icons=true&theme=radical' />
 </p>
 

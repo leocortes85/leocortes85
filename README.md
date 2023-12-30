@@ -9,7 +9,7 @@
     🔥 Passionate about: Arts, Music, Finance, Economics and, of course, all things data
     
 ## 💼 Skills:
-## 🛠 &nbsp;Tech Stack
+🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\

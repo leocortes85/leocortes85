@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Leo 
+<h2> Hi there 👋 I'm Leo<h2>
 
 
 
@@ -9,7 +9,7 @@
 - 🔥 Passionate about: Arts, Music, Finance, Economics and, of course, all things data
 
    
-### 🛠 Tech Stack 💼 (languages and tools)/
+### 🛠 Tech Stack 💼 (languages and tools)
 
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;

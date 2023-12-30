@@ -10,7 +10,7 @@
     
 ### 💼 Skills:
 
-🛠 &nbsp;Tech Stack
+🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)&nbsp;

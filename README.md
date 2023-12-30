@@ -17,9 +17,6 @@
     <p aling="center">
 <img src='https://github-readme-stats.vercel.app/api?username=leocortes85&show_icons=true&theme=radical' />
 </p>
-    
-    🌟 Let's connect and explore the world of data together! 📊📈📉
-</h3>
 
 ## Contact us
 
@@ -34,6 +31,11 @@
 
 <a href="mailto:gleonardo.cortes@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+    
+    🌟 Let's connect and explore the world of data together! 📊📈📉
+</h3>
+
+
 
     
 

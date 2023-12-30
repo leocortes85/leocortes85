@@ -23,7 +23,7 @@
     - **Data Visualization**: PowerBI, Tableau
     - **Data Analysis**: Data Analysis, Data Engineering, Data Science
 
-    <p aling="center">
+ 
 <img src='https://github-readme-stats.vercel.app/api?username=leocortes85&show_icons=true&theme=radical' />
 </p>
 

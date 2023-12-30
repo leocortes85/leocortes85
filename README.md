@@ -4,9 +4,9 @@
     <h3 align="left"> 
  About me
 
-    🎓 Math, Data Science, Finance graduate
+🎓 Math, Data Science, Finance graduate
     
-    🔥 Passionate about: Arts, Music, Finance, Economics and, of course, all things data
+🔥 Passionate about: Arts, Music, Finance, Economics and, of course, all things data
     
 💼 Skills:
 

@@ -8,7 +8,7 @@
     
 🔥 Passionate about: Arts, Music, Finance, Economics and, of course, all things data
     
-# 💼 Skills:
+### 💼 Skills:
 
 🛠 &nbsp;Tech Stack
 

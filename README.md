@@ -1,4 +1,4 @@
-<h2> Hi there 👋 I'm Leo<h2>
+<h1> Hi there 👋 I'm Leo<h1>
 
 
 

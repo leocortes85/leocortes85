@@ -13,7 +13,7 @@ About me
 </h3>
 
 <h3 align="Left">    
-🛠 Tech Stack 💼 (languages and tools)
+🛠 Tech Stack 💼 (languages and tools)/
 
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;

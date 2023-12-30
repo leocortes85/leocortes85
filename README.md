@@ -2,15 +2,13 @@
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmo0eTFvcGxsNDlqbmtrbTNkb3hvdWltdXFmbTEwcG1pc2djd2o3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VeNDat4n4Kre76oS1g/giphy.gif" width="500"/>
     <h1 align="center"> Hi there 👋 I'm Leo </h1>
     <h3 align="left"> 
- About me
+ ### About me
 
 🎓 Math, Data Science, Finance graduate
     
 🔥 Passionate about: Arts, Music, Finance, Economics and, of course, all things data
     
-### 💼 Skills:
-
-🛠 Tech Stack
+###🛠 Tech Stack 💼 (languages and tools)
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)&nbsp;
@@ -18,6 +16,9 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
+![Numpy](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=numpy)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=white)
 
 
     - **Databases**: SQL, NoSQL

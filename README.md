@@ -9,7 +9,9 @@
     🔥 Passionate about: Arts, Music, Finance, Economics and, of course, all things data
     
     💼 Skills:
-    - **Programming**: Python
+    - ### 🛠 &nbsp;Tech Stack
+
+    ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
     - **Databases**: SQL, NoSQL
     - **Data Visualization**: PowerBI, Tableau
     - **Data Analysis**: Data Analysis, Data Engineering, Data Science

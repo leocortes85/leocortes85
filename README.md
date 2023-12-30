@@ -6,7 +6,7 @@
 
     🎓 Math, Data Science, Finance graduate
     
-    🔥 Passionate about: Arts, Music, and, of course, all things data
+    🔥 Passionate about: Arts, Music, Finance, Economics and, of course, all things data
     
     💼 Skills:
     - **Programming**: Python
@@ -20,6 +20,20 @@
     
     🌟 Let's connect and explore the world of data together! 📊📈📉
 </h3>
+
+## Contact us
+
+<a href="https://www.linkedin.com/in/leonardo-cortés-zambrano-13522295/" target="blank">
+<img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="azzar" height="30"/></a>
+
+<a href="https://twitter.com/leocortesz" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+
+<a href="https://github.com/pingcap/leocortes85/discussions" target="_blank">
+<img src=https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+
+<a href="mailto:gleonardo.cortes@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 
     
 

@@ -1,5 +1,4 @@
-<div id="header" align="center">
-    
+  
 <h1 align="center"> Hi there 👋 I'm Leo </h1>
      
 ### About me
@@ -41,7 +40,7 @@
     
     🌟 Let's connect and explore the world of data together! 
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmo0eTFvcGxsNDlqbmtrbTNkb3hvdWltdXFmbTEwcG1pc2djd2o3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VeNDat4n4Kre76oS1g/giphy.gif" width="500"/>
+<div id="header" align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmo0eTFvcGxsNDlqbmtrbTNkb3hvdWltdXFmbTEwcG1pc2djd2o3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VeNDat4n4Kre76oS1g/giphy.gif" width="500"/>
 
 
     

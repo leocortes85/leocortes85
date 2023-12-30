@@ -1,6 +1,8 @@
  <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmo0eTFvcGxsNDlqbmtrbTNkb3hvdWltdXFmbTEwcG1pc2djd2o3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VeNDat4n4Kre76oS1g/giphy.gif" width="500"/>
-<h1 align="center"> Hi there 👋 I'm Leo </h1>
+<h1 align="center"> Hi there 👋 I'm Leo 
+
+</h1>
 
 
 <h3 align="Left">     
@@ -10,9 +12,7 @@ About me
    🎓 Math, Data Science, Finance graduate
    🔥 Passionate about: Arts, Music, Finance, Economics and, of course, all things data
 
-</h3>
-
-<h3 align="Left">    
+   
 🛠 Tech Stack 💼 (languages and tools)/
 
 
@@ -26,17 +26,17 @@ About me
 ![Numpy](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=numpy)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=white)
 
-</h3>
 
-<h3 align="Left">
+
+
 📊📈📉 Stats
 
 <img src='https://github-readme-stats.vercel.app/api?username=leocortes85&show_icons=true&theme=radical' />
 </p>
 
-</h3>
 
-<h3 align="Left">
+
+
 Contact us
 
 <a href="https://www.linkedin.com/in/leonardo-cortés-zambrano-13522295/" target="blank">

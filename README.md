@@ -8,7 +8,7 @@
     
 🔥 Passionate about: Arts, Music, Finance, Economics and, of course, all things data
     
-###🛠 Tech Stack 💼 (languages and tools)
+### 🛠 Tech Stack 💼 (languages and tools)
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)&nbsp;

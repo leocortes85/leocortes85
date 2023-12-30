@@ -9,7 +9,10 @@ About me
 
 🎓 Math, Data Science, Finance graduate
 🔥 Passionate about: Arts, Music, Finance, Economics and, of course, all things data
-    
+
+</h3>
+
+<h3 align="Left">    
 🛠 Tech Stack 💼 (languages and tools)
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -21,6 +24,8 @@ About me
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
 ![Numpy](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=numpy)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=white)
+
+</h3>
 
 
 📊📈📉 Stats

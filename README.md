@@ -37,6 +37,8 @@
 
 <a href="mailto:gleonardo.cortes@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmo0eTFvcGxsNDlqbmtrbTNkb3hvdWltdXFmbTEwcG1pc2djd2o3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VeNDat4n4Kre76oS1g/giphy.gif" width="500"/> 
     
     🌟 Let's connect and explore the world of data together! 
 

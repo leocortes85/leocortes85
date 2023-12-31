@@ -31,7 +31,7 @@
 ## Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-cort%C3%A9s-zambrano-13522295/)
-![Twitter Follow](https://img.shields.io/twitter/follow/leocortesz?label=Follow)
+![Twitter Follow](https://img.shields.io/twitter/follow/leocortesz?label=Follow)(https://twitter.com/leocortesz)
 [![Twitter](https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/leocortesz)
 [![GitHub](https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white)](https://github.com/pingcap/leocortes85/)
 [![Gmail](https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white)](mailto:gleonardo.cortes@gmail.com)

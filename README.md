@@ -14,9 +14,9 @@
 <h2> 🛠 Tech Stack 💼 (Languages and Tools)</h2> 
 
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
+![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python&logoColor=white)
+![R (Statistics)](https://img.shields.io/badge/R-05122A?style=flat&logo=R&logoColor=276DC3)
+![C++](https://img.shields.io/badge/C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)

@@ -3,13 +3,13 @@
 </div>
 <div align="center">
 <h2>About me</h2> 
-</div>
+
 
 - 🎓 Maths, Data Science, Finance, Economics
 - 🔥 Passionate about: Arts, Music, Finance, Economics, and, of course, all things data
 - 🎵 Music composer, Musical Arranger, Jazz and Classic music performer
 - 🎧 DJ and producer
-
+</div>
 <div align="center">
 <h2> 🛠 Tech Stack 💼 (Languages and Tools)</h2> 
 </div>

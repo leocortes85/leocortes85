@@ -1,4 +1,6 @@
-# Hi there! 👋 I'm Leo
+<div align="center">
+  <h1>Hi there! 👋 I'm Leo</h1>
+</div>
 
 ## About me
 - 🎓 Math, Data Science, Finance graduate

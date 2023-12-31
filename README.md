@@ -20,6 +20,9 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=flat&logo=firebase&logoColor=white)
+
 
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)

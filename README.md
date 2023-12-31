@@ -2,7 +2,7 @@
   <h1>Hi there! 👋 I'm Leo</h1>
 </div>
 <div align="center">
-## About me
+<h2>About me</h2> 
 </div>
 - 🎓 Maths, Data Science, Finance, Economics
 - 🔥 Passionate about: Arts, Music, Finance, Economics, and, of course, all things data

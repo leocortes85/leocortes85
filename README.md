@@ -1,10 +1,13 @@
 <div align="center">
   <h1>Hi there! 👋 I'm Leo</h1>
 </div>
-
+<div align="center">
 ## About me
-- 🎓 Math, Data Science, Finance graduate
+</div>
+- 🎓 Maths, Data Science, Finance, Economics
 - 🔥 Passionate about: Arts, Music, Finance, Economics, and, of course, all things data
+- 🎵 Music composer, Musical Arranger, Jazz and Classic music performer
+- 🎧 DJ and producer
 
 ## 🛠 Tech Stack 💼 (Languages and Tools)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)

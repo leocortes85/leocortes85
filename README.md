@@ -3,13 +3,13 @@
 </div>
 <div align="center">
 <h2>About me</h2> 
-
+</div>
 
 - 🎓 Maths, Data Science, Finance, Economics
 - 🔥 Passionate about: Arts, Music, Finance, Economics, and, of course, all things data
 - 🎵 Music composer, Musical Arranger, Jazz and Classic music performer
 - 🎧 DJ and producer
-</div>
+
 <div align="center">
 <h2> 🛠 Tech Stack 💼 (Languages and Tools)</h2> 
 </div>
@@ -32,10 +32,15 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=PowerBI&logoColor=white)
 
-## 📊📈📉 Stats
+<div align="center">
+<h2> 📊📈📉 Stats</h2>
+</div>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leocortes85&show_icons=true&theme=radical)
 
-## Contact Me
+<div align="center">
+<h2> Contact Me</h2>
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-cort%C3%A9s-zambrano-13522295/)
 [![Twitter](https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/leocortesz)

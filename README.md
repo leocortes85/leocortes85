@@ -28,10 +28,10 @@
 
 ## Contact Me
 
-<a href="https://www.linkedin.com/in/leonardo-cort%C3%A9s-zambrano-13522295/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" height="50" width="50" /></a>
-<a href="https://twitter.com/leocortesz" target="_blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" alt="Twitter" height="50" width="50" /></a>
-<a href="https://github.com/pingcap/leocortes85/" target="_blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitHub.svg" alt="GitHub" height="50" width="50" /></a>
-<a href="mailto:gleonardo.cortes@gmail.com" target="_blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail.svg" alt="Gmail" height="50" width="50" /></a>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-cort%C3%A9s-zambrano-13522295/)
+[![Twitter](https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/leocortesz)
+[![GitHub](https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white)](https://github.com/pingcap/leocortes85/)
+[![Gmail](https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white)](mailto:gleonardo.cortes@gmail.com)/a>
 
 🌟 Let's connect and explore the world of data together!
 

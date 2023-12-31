@@ -10,7 +10,10 @@
 - 🎵 Music composer, Musical Arranger, Jazz and Classic music performer
 - 🎧 DJ and producer
 
-## 🛠 Tech Stack 💼 (Languages and Tools)
+<div align="center">
+<h2> 🛠 Tech Stack 💼 (Languages and Tools)</h2> 
+</div>
+
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
